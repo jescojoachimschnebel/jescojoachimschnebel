@@ -44,7 +44,7 @@ Konzeption eines Data Warehouses mit Star Schema, ETL-Prozessen und Historisieru
 
 ### 3. Sales Dashboard 2024 – Power BI
 
-[GitHub-Repositories ansehen](https://github.com/jescojoachimschnebel/Sales-Dashboard-2024?utm_source=chatgpt.com)
+[Projekt auf GitHub ansehen](https://github.com/jescojoachimschnebel/Sales-Dashboard-2024?utm_source=chatgpt.com)
 
 Entwicklung eines interaktiven Management-Dashboards zur Analyse von Umsatzentwicklungen, Produktgruppen und regionalen Vertriebskennzahlen.
 
@@ -63,7 +63,7 @@ Analyse von Geschäftsdaten mit PostgreSQL. Untersuchung von Umsatzentwicklung, 
 
 ### 5. PeakFlow – Umsatzentwicklung Q1 2025
 
-[GitHub-Repositories ansehen](https://github.com/jescojoachimschnebel/PeakFlow-Umsatzanalyse-Q1-2025?utm_source=chatgpt.com)
+[Projekt auf GitHub ansehen](https://github.com/jescojoachimschnebel/PeakFlow-Umsatzanalyse-Q1-2025?utm_source=chatgpt.com)
 
 Analyse von Verkaufsdaten zur Untersuchung der Umsatzentwicklung im ersten Quartal 2025.
 
